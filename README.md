@@ -1,6 +1,6 @@
 # Project: Recommendation System for IBM Watson Articles
 
-![N|Solid](https://github.com/devindatt/IBM-Recommendation-System/blob/master/assets/watson_articles1.png)
+![N|Solid](https://github.com/devindatt/IBM-Recommendation-System/blob/master/assets/watson_home_screen_articles1.png)
 
 
 
